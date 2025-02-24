@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+}
+
+.patrat { 
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    display: flex;
+    align-self: center;
+    justify-self: center;
+}
